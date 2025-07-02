@@ -31,7 +31,7 @@ import port from '../../assets/images/navbar/port.svg'
 import hazardous from '../../assets/images/navbar/Hazardous.svg'
 import thermal from '../../assets/images/navbar/thermal.svg'
 import solar from '../../assets/images/navbar/solar.svg'
-// This is comment
+// This is comment 1
 const Navbar = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false)
     const [soluitonOpen, setsoluitonOpen] = useState(false)
